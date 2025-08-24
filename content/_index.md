@@ -4,7 +4,7 @@ description: A clean documentation and blog theme for your Hugo site based on Bo
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: Welcome to Hinode!
+      title: Welcome to Monfit!
       content: |-
         A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
       width: 6

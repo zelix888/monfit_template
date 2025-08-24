@@ -31,6 +31,7 @@
       "use"
     ],
     "classes": [
+      "%!s(<nil>)",
       "active",
       "align-items-center",
       "align-self-center",
@@ -202,7 +203,8 @@
       "navbar-mode-checkbox",
       "toast-container",
       "toast-copied-code-message",
-      "welcome-to-hinode"
+      "welcome-to-monfit",
+      "welcome-to-stocazzo"
     ]
   }
 }
