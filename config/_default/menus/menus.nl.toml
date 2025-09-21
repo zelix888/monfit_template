@@ -1,6 +1,6 @@
 [[main]]
-  name = "About"
-  pageRef = "/about/"
+  name = "Over mij"
+  pageRef = "/over-mij/"
   weight = 10
 
 [[main]]
@@ -9,20 +9,20 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  pageRef = "/projects/"
+  name = "Projecten"
+  pageRef = "/projecten/"
   weight = 30
 
 [[main]]
-  name = "Sample project"
-  pageRef = "/projects/sample-project/"
-  parent = "Projects"
+  name = "Voorbeeldproject"
+  pageRef = "/projecten/voorbeeldproject/"
+  parent = "Projecten"
   weight = 1
 
 [[main]]
-  name = "Another project"
-  pageRef = "/projects/another-project/"
-  parent = "Projects"
+  name = "Ander project"
+  pageRef = "/projecten/ander-project/"
+  parent = "Projecten"
   weight = 2
 
 [[main]]
@@ -38,7 +38,7 @@
 
 [[social]]
   name = "GitHub"
-  pre = "fab fa-github"
+  pre = "fab github"
   url = "https://github.com/"
   weight = 20
 
@@ -55,19 +55,19 @@
   weight = 10
 
 [[sample]]
-  name = "Projects"
-  pageRef = "/projects/"
+  name = "Projecten"
+  pageRef = "/projecten/"
   weight = 20
 
 [[sample]]
-  name = "Sample project"
-  pageRef = "/projects/sample-project/"
-  parent = "Projects"
+  name = "Voorbeeldproject"
+  pageRef = "/projecten/voorbeeldproject/"
+  parent = "Projecten"
   weight = 1
 
 [[sample]]
-  name = "Another project"
-  pageRef = "/projects/another-project/"
-  parent = "Projects"
+  name = "Ander project"
+  pageRef = "/projecten/ander-project/"
+  parent = "Projecten"
   weight = 2
 # toml-docs-end sample-navigation
